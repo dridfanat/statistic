@@ -1,0 +1,31 @@
+#page {
+    padding-top: 60px;
+          }
+      .portlet-content {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        width: 200px;
+      }
+      .portlet-content li {
+        border-bottom: 1px solid #666;
+      }
+      .portlet-content a {
+        background-color: #FFFFFF;
+        color: #6BA0B8;
+        padding: 10px;
+        text-decoration: none;
+        font-weight: bold;
+        display: block;
+      }
+      .portlet-content a:hover {
+        background-color: #666;
+
+      }
+
+.portlet-title {
+   color: #000000;
+   font-size: 25px; /* Размер надписи */
+   margin: 10px;
+   font-weight:bold;
+}
